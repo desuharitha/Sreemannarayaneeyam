@@ -1,0 +1,22 @@
+{
+  "drive_url": "https://drive.google.com/drive/folders/13oyuiih1NmnERoV9LS8Rb1_68RmZbiQt",
+  "template": "assets/template-celestial.png",
+  "audio_dir": "audio",
+  "exclude_names": [
+    "Naarayaneeyam dyana slokas.m4a"
+  ],
+  "output_dir": "videos",
+  "number_box": [
+    525,
+    1395,
+    700,
+    1490
+  ],
+  "font": "C:/Windows/Fonts/timesbd.ttf",
+  "font_size": 115,
+  "fill": "#640800",
+  "stroke_fill": "#d9a333",
+  "stroke_width": 2,
+  "fps": 1,
+  "crf": 20
+}

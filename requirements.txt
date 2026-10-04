@@ -1,0 +1,3 @@
+Pillow>=11,<13
+gdown>=6.4,<7
+imageio-ffmpeg>=0.6,<0.7
